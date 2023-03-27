@@ -4,4 +4,4 @@
 pip install -r requirements.txt
 
 # Запускаем бота
-python bot.py
+python TgBot.py
